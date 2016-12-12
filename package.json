@@ -1,0 +1,22 @@
+{
+  "name": "learning_node.js",
+  "version": "1.0.0",
+  "description": "This will contain my early work as a .NET Applications Developer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianHollingsworth/Learning_Node.js.git"
+  },
+  "author": "Brian J. Hollingsworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianHollingsworth/Learning_Node.js/issues"
+  },
+  "homepage": "https://github.com/brianHollingsworth/Learning_Node.js#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
